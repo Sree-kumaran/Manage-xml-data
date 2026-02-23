@@ -6,7 +6,7 @@
   "scripts": {
     "parse": "node src/scripts/downloadAndParse.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/server.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
